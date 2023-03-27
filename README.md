@@ -1,5 +1,5 @@
 # coplit code 
 
 
-#  Section 2
-## 11_removeExtremes
+Section 2
+- 11_removeExtremes
