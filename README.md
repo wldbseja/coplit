@@ -5,3 +5,4 @@ Section 2
 - 11_removeExtremes
 - 12_ findBugInApples
 - 13_ readVertically
+- 14_ superIncreasing
