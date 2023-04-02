@@ -3,6 +3,7 @@
 
 Section 2
 - 11_removeExtremes
-- 12_ findBugInApples
-- 13_ readVertically
-- 14_ superIncreasing
+- 12_findBugInApples
+- 13_readVertically
+- 14_superIncreasing
+- 15_modulo
