@@ -7,3 +7,4 @@ Section 2
 - 13_readVertically
 - 14_superIncreasing
 - 15_modulo
+- 16_isIsogram
