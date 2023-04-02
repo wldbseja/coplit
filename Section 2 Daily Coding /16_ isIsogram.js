@@ -12,11 +12,13 @@
 
 function isIsogram(str) {
   const obj = {};
+  // 대소문자 구분이 없으므로 대문자로 모두 변경
+  str = str.toUpperCase();
   for (item of str) {
     // obj 객체에 알파벳이 들어가 있는게 없으면 키는 알파벳 ,값은 초기값 0 으로 설정
-    if (!obj[item]) obj[itme] = 0;
+    if (!obj[item]) obj[item] = 0;
     // 등장할 때 마다 하나씩 값을 올린다
-    else obj[item]++;
+    obj[item]++;
   }
   // max 변수에 obj의 모든 값들 중 제일 큰 값을 찾아 저장
   const max = Math.max(...Object.values(obj));
