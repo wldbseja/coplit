@@ -8,3 +8,4 @@ Section 2
 - 14_superIncreasing
 - 15_modulo
 - 16_isIsogram
+- 17_computeSquareRoot
