@@ -9,3 +9,5 @@ Section 2
 - 15_modulo
 - 16_isIsogram
 - 17_computeSquareRoot
+- 18_ numberSearch
+- 19_ decryptCaesarCipher
