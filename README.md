@@ -11,3 +11,4 @@ Section 2
 - 17_computeSquareRoot
 - 18_ numberSearch
 - 19_ decryptCaesarCipher
+- 20_ compressString
