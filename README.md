@@ -12,3 +12,6 @@ Section 2
 - 18_ numberSearch
 - 19_ decryptCaesarCipher
 - 20_ compressString
+
+Section 3
+- 21_largestProductOfThree
