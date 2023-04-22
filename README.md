@@ -15,3 +15,7 @@ Section 2
 
 Section 3
 - 21_largestProductOfThree
+- 22_fibonacci
+- 23_bubbleSort
+- 24_isSubsetOf
+- 25_tiling
